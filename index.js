@@ -2,24 +2,24 @@ let nomeHeroi = "Eduardo"
 let XP = -1
 
 if (XP < 0){
-    nivel = "Não é possivel um herói ter nível negativo ;)"
+  nivel = "Não é possivel um herói ter nível negativo ;)"
 } else if
 (XP < 1000) {
-  nivel = "Ferro";
+  nivel = "Ferro"
 } else if (XP <= 2000) {
-  nivel = "Bronze";
+  nivel = "Bronze"
 } else if (XP <= 5000) {
-  nivel = "Prata";
+  nivel = "Prata"
 } else if (XP <= 7000) {
-  nivel = "Ouro";
+  nivel = "Ouro"
 } else if (XP <= 8000) {
-  nivel = "Platina";
+  nivel = "Platina"
 } else if (XP <= 9000) {
-  nivel = "Ascendente";
+  nivel = "Ascendente"
 } else if (XP <= 10000) {
-  nivel = "Imortal";
+  nivel = "Imortal"
 } else {
-  nivel = "Radiante";
+  nivel = "Radiante"
 }
 
 if (XP < 0){
