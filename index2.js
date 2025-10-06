@@ -1,3 +1,5 @@
+/*Fazendo com estrutura de decisioes
+*/
 let nomeHeroi = "Eduardo"
 let XP = -2
 
